@@ -12,3 +12,10 @@ function sub() {
     document.getElementById("counter").innerText = count;
     document.getElementById("counter").style.color = colors[color]
 }
+
+
+for(let i = 0; i <= 3; i++){
+    for(let y = i; y >= 0; y--) {
+        console.log(i+y);
+    }
+}
