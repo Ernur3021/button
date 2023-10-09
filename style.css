@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    padding: 0px 150px;
+    margin-top: 100px;
+}
+.button-text {
+    margin-top: 20px;
+    font-size: 50px;
+}
+.btn {
+    width: 40px;
+    height: 20px;
+}
