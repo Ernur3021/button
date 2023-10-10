@@ -15,3 +15,20 @@
     width: 40px;
     height: 20px;
 }
+
+.one {
+    color: blue;
+    font-size: 30px;
+}
+.tow {
+    color: red;
+    font-size: 39px;
+}
+.three {
+    color: yellow;
+    font-size: 45px;
+}
+.four {
+    color: pink;
+    font-size: 50px;
+}
